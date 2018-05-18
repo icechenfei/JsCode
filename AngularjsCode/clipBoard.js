@@ -1,5 +1,5 @@
 angular.module('myTestModule')
-  .directive('clipBoard', clipBOard);
+  .directive('clipBoard', clipBoard);
 
   function clipBoard($injector){
     return {
